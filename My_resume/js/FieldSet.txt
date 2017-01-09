@@ -1,0 +1,15 @@
+ var HTMLTitleField= '<span id="title">%data%</span>';
+ var HTMLNoteField = '<span>%data%</span>';
+ var Email = {
+     'title': 'Email adress',
+     'note': 'your email is requied,',
+	 };
+var Password = {
+     'title': 'Password',
+     'note': 'your email is requied,',
+	 }; 
+var msgColor{
+
+
+}
+mouseEvent,
